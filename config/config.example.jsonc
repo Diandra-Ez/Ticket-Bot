@@ -1,11 +1,11 @@
 {
-	"clientId": "", // The id of the discord bot
-	"guildId": "", // The id of the discord server
+	"clientId": "1079385715596603402", // The id of the discord bot
+	"guildId": "1079066214418087987", // The id of the discord server
 	"mainColor": "f6c42f", // The hex color of the embeds by default
 	"lang": "main", // If you want to set english please set "main"
 
-	"closeTicketCategoryId": "", // The id of the category where a closed ticket will be moved to
-	"openTicketChannelId": "", // The id of the channel where the message to create a ticket will be sent
+	"closeTicketCategoryId": "1079410310814896140", // The id of the category where a closed ticket will be moved to
+	"openTicketChannelId": "1079410019528871996", // The id of the channel where the message to create a ticket will be sent
 	
 	"ticketTypes": [ // You have a limit of 25 types (the limit of Discord)
 		{
